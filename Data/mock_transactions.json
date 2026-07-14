@@ -1,0 +1,7 @@
+[
+  {"transaction_id": "TXN1001", "user_id": "USR901", "merchant_id": "MERCH44", "amount": 4500.00, "device_id": "DEV_IPHONE_X", "ip_address": "192.168.1.50", "location": "Bangalore", "timestamp": "2026-07-13T10:00:00Z"},
+  {"transaction_id": "TXN1002", "user_id": "USR902", "merchant_id": "MERCH12", "amount": 120.50, "device_id": "DEV_ANDROID_12", "ip_address": "203.0.113.195", "location": "Mumbai", "timestamp": "2026-07-13T10:01:00Z"},
+  {"transaction_id": "TXN1003", "user_id": "USR901", "merchant_id": "MERCH88", "amount": 8900.00, "device_id": "DEV_IPHONE_X", "ip_address": "198.51.100.42", "location": "Delhi", "timestamp": "2026-07-13T10:02:15Z"},
+  {"transaction_id": "TXN1004", "user_id": "USR904", "merchant_id": "MERCH44", "amount": 350.00, "device_id": "DEV_ANDROID_09", "ip_address": "192.168.1.88", "location": "Bangalore", "timestamp": "2026-07-13T10:03:00Z"},
+  {"transaction_id": "TXN1005", "user_id": "USR901", "merchant_id": "MERCH02", "amount": 12000.00, "device_id": "DEV_IPHONE_X", "ip_address": "198.51.100.42", "location": "Kolkata", "timestamp": "2026-07-13T10:04:10Z"}
+]
